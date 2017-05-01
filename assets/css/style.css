@@ -39,7 +39,7 @@ p span {
 /* ANCHORS */
 a {
 	text-decoration: none;
-	color: #c4c0c3;
+	color: #7b7b7b;
 }
 a:hover {
 	text-decoration: none;
@@ -73,7 +73,7 @@ li span {
 .btn-slide {
   padding: 12px 24px;
   background: #000000;
-  color: #c4c0c3;
+  color: #7b7b7b;
   border-radius: 6px;
   display: inline-block;
   font-size: 16px;
@@ -249,7 +249,7 @@ ul.icon.diferent li.cloud:before {
 	color: #3498db;
 }
 #contact a:hover {
-	color: #c4c0c3;
+	color: #7b7b7b;
 }
 
 /* ==== FOOTER ==== */
@@ -321,7 +321,7 @@ a.scrollup{
 
 a.scrollup:hover{
 	opacity:1;
-	background-color:#c4c0c3;
+	background-color:#7b7b7b;
 	color: #212121;
 }
 
