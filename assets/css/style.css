@@ -39,7 +39,7 @@ p span {
 /* ANCHORS */
 a {
 	text-decoration: none;
-	color: #7b7b7b;
+	color: #c4c0c3;
 }
 a:hover {
 	text-decoration: none;
@@ -73,7 +73,7 @@ li span {
 .btn-slide {
   padding: 12px 24px;
   background: #000000;
-  color: #7b7b7b;
+  color: #c4c0c3;
   border-radius: 6px;
   display: inline-block;
   font-size: 16px;
@@ -321,7 +321,7 @@ a.scrollup{
 
 a.scrollup:hover{
 	opacity:1;
-	background-color:#7b7b7b;
+	background-color:#c4c0c3;
 	color: #212121;
 }
 
