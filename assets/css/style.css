@@ -126,7 +126,7 @@ li span {
 	padding-top: 100px;
 	margin-top: -167px;
 	background-image: url('../images/sections/home.jpeg');
-	background-size: 100% 100%;
+	background-size: cover;
 }
 #home .carousel .slide-margin{
 	margin-top: 247px;
@@ -174,7 +174,7 @@ li span {
 #why {
 	padding: 100px 0px 100px 0px;
 	background-image: url('../images/sections/why.jpeg');
-	background-size: 100% 100%;
+	background-size: cover;
 }
 #why .btn-slide {
 	margin-top: 17px;
